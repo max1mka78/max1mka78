@@ -11,10 +11,7 @@
   </a>
 </div>
 
-стата
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max1mka78&layout=compact)](https://github.com/max1mka78/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=max1mka78&repo=мой репозиторий)](https://github.com/max1mka78/мой репозиторий)
 
 * Занимаюсь аналитикой данных 📈
 * Готов к сотрудничеству 🤝
