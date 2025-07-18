@@ -11,8 +11,6 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max1mka78&layout=compact)](https://github.com/max1mka78/github-readme-stats)
-
 * Занимаюсь аналитикой данных 📈
 * Готов к сотрудничеству 🤝
 * Мои проекты 👇: 
